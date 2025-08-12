@@ -7,5 +7,5 @@ Power BI Example
 ## Info by Professions  
 ![Professions](professions.png)  
 
-##Professions Info by Country  
+## Professions Info by Country  
 ![Main Dashboard](country.png)  
